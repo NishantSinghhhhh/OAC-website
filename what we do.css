@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+    /* background-color:lightblue; */
+    
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 50px;
+    position: relative;
+}
+.main{
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+header img{
+    position: absolute;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
